@@ -1,0 +1,37 @@
+{
+    "users": {
+        "1": {
+            "username": "alex",
+            "password": "password123",
+            "is_active": true,
+            "id": 1
+        },
+        "2": {
+            "username": "maria",
+            "password": "securepass456",
+            "is_active": true,
+            "id": 2
+        },
+        "3": {
+            "username": "john",
+            "password": "johnspass789",
+            "is_active": false,
+            "id": 3
+        },
+        "4": {
+            "username": "testuser",
+            "password": "testpassword123",
+            "is_active": true,
+            "id": 4
+        },
+        "5": {
+            "username": "demo",
+            "password": "demopassword456",
+            "is_active": true,
+            "id": 5
+        }
+    },
+    "counters": {
+        "users": 5
+    }
+}
